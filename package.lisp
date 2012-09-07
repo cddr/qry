@@ -1,0 +1,3 @@
+
+(defpackage :qry
+  (:use :cl))
